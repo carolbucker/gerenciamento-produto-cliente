@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Alice"
+    },
+    {
+      "id": "d6b5",
+      "nome": "Miguel"
+    },
+    {
+      "id": "d6f3",
+      "nome": "795Miguel Bucker"
+    },
+    {
+      "id": "b5bb",
+      "nome": "799Miguel Augusto"
+    },
+    {
+      "id": "d1d5",
+      "nome": "795eMiguel Bucker"
+    },
+    {
+      "id": "3bda",
+      "nome": "799dMiguel Augusto"
+    }
+  ]
+}
